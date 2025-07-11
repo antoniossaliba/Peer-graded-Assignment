@@ -1,1 +1,1 @@
-This file is made shell scripting
+This file is made to shell scripting
